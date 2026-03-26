@@ -121,6 +121,7 @@ Applies t-SNE with `n_components=3` to the Iris dataset and renders a **3D scatt
 
 ### Cell 9 — High-Dimensional Blobs: PCA vs t-SNE
 Creates synthetic data with **8 clusters in 50 dimensions** (800 samples) and compares PCA vs t-SNE projections.
+<img width="1562" height="752" alt="image" src="https://github.com/user-attachments/assets/dff36bdf-6da5-4baa-a3a4-036c45bab428" />
 
 > **Key insight:** In high dimensions, t-SNE produces far cleaner cluster separation than PCA. PCA's clusters overlap significantly, while t-SNE yields clearly distinct groups.
 
