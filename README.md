@@ -1,6 +1,7 @@
 # 📊 t-SNE — t-Distributed Stochastic Neighbor Embedding
 
 > A hands-on, visual guide to understanding and applying t-SNE for dimensionality reduction using Python and scikit-learn.
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/94a68367-ffa3-46ba-b5b4-99fa995857cb" />
 
 ---
 
